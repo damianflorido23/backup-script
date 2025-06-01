@@ -76,7 +76,7 @@ Agrega una línea como esta para ejecutarlo todos los días a las 2:00 AM:
 
 ---
 
-## 🧑‍💻 Autor
+# Autor
 
 **Damián Florido**  
 Script personalizado para gestión de backups en entornos locales.
